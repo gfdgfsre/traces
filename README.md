@@ -435,7 +435,7 @@ algorithms:
 
 Simutrace's memory trace compressor uses a modified version of the algorithm
 presented in <i>M. Burtscher et al. The vpc trace-compression algorithms.
-Computers, IEEE Transactions on, 54(11):1329–1344, 2005.</i>
+Computers, IEEE Transactions on, 54(11):1329Â–1344, 2005.</i>
 
 The debug build of Simutrace includes the
 [FastDelegate](http://www.codeproject.com/cpp/FastDelegate.asp) library.
@@ -457,3 +457,8 @@ Institute of Technology (KIT).
 
 Additional contributors:
   - Bastian Eicher
+
+
+URL:
+http://os.itec.kit.edu/2872.php
+http://os.itec.kit.edu/2741.php
